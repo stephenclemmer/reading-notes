@@ -1,6 +1,6 @@
 # My Notes for Coding 102:
 
-Mindset is one's perception of their abilities. A fixed mindset is a belief that one's abilities are unable to be affected, whereas a **growth minsdet** is a belief that one's abilities can be affected. ***A growth mindset is essential for success within the tech field.***
+Mindset is one's perception of their abilities. A *fixed mindset* is a belief that one's abilities are unable to be affected, whereas a **growth minsdet** is a belief that one's abilities can be affected. ***A growth mindset is essential for success within the tech field.***
 
 ### Here are three reminders to help stay in a growth mindset:
 
