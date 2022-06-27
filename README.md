@@ -13,4 +13,6 @@ Mindset is one's perception of their abilities. A *fixed mindset* is a belief th
 
 
 Stephen Clemmer loves to learn, try new things, and create things that make life more enjoyable. He is a coder, musician, dancer, and Pokemon trainer.
-Check out Stephen's github portfolio at: [https://github.com/stephenclemmer](https://github.com/stephenclemmer)
+
+#### Check out Stephen's github portfolio at: [https://github.com/stephenclemmer](https://github.com/stephenclemmer)
+#### Email Stephen at: stephenjclemmer@gmail.com
