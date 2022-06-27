@@ -9,6 +9,6 @@ Mindset is one's perception of their abilities. A *fixed mindset* is a belief th
 3. Rely on the brilliance of your peers to help work through difficult problems. Post in the group slack channel, attend lab hours, and consult Google to learn how to identify and remove any barriers.
 
 
-![Stephen Clemmer Picture](///Users/Stephen/Desktop/The%20Universe/Personal/Stephen%20Clemmer%20Blue%20Background.jpg)
+![Stephen Clemmer Picture](/Users/Stephen/Desktop/The%20Universe/Personal/Stephen%20Clemmer%20Blue%20Background.jpg)
 Stephen Clemmer loves to learn, try new things, and create things that make life more enjoyable. He is a coder, musician, dancer, and Pokemon trainer.
 Check out Stephen's github portfolio at: [https://github.com/stephenclemmer](https://github.com/stephenclemmer)
