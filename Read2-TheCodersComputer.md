@@ -44,4 +44,9 @@ Most computer users interact with their machines by using a **Graphical User Int
 2. Most commands produce output and it will be listed straight under the issuing of the command. Other commands just perform their task and don't display any information unless there was an error.
 3. After the command has run and the terminal is ready for you to enter another command the prompt will be displayed. If no prompt is displayed then the command may still be running
 
+### The Shell
 
+The shell is part of the operating system that defines how the terminal will behave and how it will look after executing commands. BASH is a commonly used shell. 
+
+### PRO TIP!
+*Commands within the Terminal are stored in a history that can be accessed via the arrow keys. Rather than retyping familiar commands, simply scroll through the recently used commands to fly more easily through coding.* 
