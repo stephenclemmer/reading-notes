@@ -30,7 +30,7 @@ Most computer users interact with their machines by using a **Graphical User Int
 #### Common commands to be used in the Command Line include:
 - **pwd** (print working directory): The “Where am i?” command
 - **ls** (list): lists all of the items that are in the directory the user is currently in
-- **cd** (change directory): (ex: cd directoryname
+- **cd** (change directory): ex: 'cd directoryname' The command cd may be run without a location as we saw in the shortcut above but usually will be run with a single command line argument which is the location we would like to change into. The location is specified as a path and as such may be specified as either an absolute or relative path and using any of the path building blocks. If a user ran 'cd' without also including an argument, then the user will always be taken back to the home directory.  
 - **mkdir** (make directory)
 - **cd..** (change directory and go back one): However many levels you want to go back, indicate one dot, and then add one. 
 - **touch** (make a file): ex '~ touch hiclass.md' would create a new markdown file called hiclass.
@@ -48,5 +48,26 @@ Most computer users interact with their machines by using a **Graphical User Int
 
 The shell is part of the operating system that defines how the terminal will behave and how it will look after executing commands. BASH is a commonly used shell. 
 
-### PRO TIP!
+## PRO TIP!
 *Commands within the Terminal are stored in a history that can be accessed via the arrow keys. Rather than retyping familiar commands, simply scroll through the recently used commands to fly more easily through coding.* 
+
+### Paths: Absolute vs. Relative
+
+Linux is a hierarchal structure. At the top is the **Root Directory**. The Root is denoted by a single slash ( / ). **Directories** and **Subdirectories** may be built off of the root, and files may be organized within them.
+
+A path is a means to get to a particular file or directory on the system. There are 2 types of paths we can use, **absolute** and **relative**.
+
+An **Absolute Path** specifies a location (file or directory) in relation to the root directory. You can identify Absolute Paths easily as they *always* begin with a forward slash ( / ).
+
+Relative paths specify a location (file or directory) in relation to where a user currently is in the system. Relative Paths *will not* begin with a forward slash.
+
+#### Common Building Blocks Used to Build Paths:
+
+~ (tilde): This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
+. (dot): This is a reference to your current directory. eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not required but in later sections we will see where it comes in handy).
+.. (dotdot): This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
+
+## PRO TIP! ##
+*When you start typing a path you may hit the Tab key on your keyboard at any time which will invoke an auto complete action. If nothing happens then that means there are several possibilities. If you hit Tab again it will show you those possibilities.*
+
+
