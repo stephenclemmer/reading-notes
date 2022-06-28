@@ -37,6 +37,7 @@ Most computer users interact with their machines by using a **Graphical User Int
 - **code .** (opens a new window with everything in the folder)
 - **tree** (shows the tree of files. Similar to ls). It shows everything that is also inside of other directories.
 - **-a** (i.e., 'tree -a'): If one were to hide files, adding this to the end of a command may reveal the hidden files.
+- **-la** Similar to '-a', but it will display the results in list form, which is more digestable.
 
 #### Types of Information entered and received from the Command Line:
 
