@@ -70,4 +70,25 @@ Relative paths specify a location (file or directory) in relation to where a use
 ## PRO TIP! ##
 *When you start typing a path you may hit the Tab key on your keyboard at any time which will invoke an auto complete action. If nothing happens then that means there are several possibilities. If you hit Tab again it will show you those possibilities.*
 
+### Everything is a File in Linux
+
+Unlike other systems, Linux does not use file extensions, i.e. .exe, .txt, .png, .jpg, .gif, etc. Instead, Linux looks inside the file to determine what it is. This is why on a mac, one can simply change a file extension to create a file with a different extension for use elsewhere, i.e., changing the extension of a picture from .jpg to .png. When no extension is present, the file type can be determined by using the command 'file', i.e. 'file [path]'.
+
+### Linux is Case Sensitive
+
+It is possible to have two files with the same name, but different choices of capitalization of the letters in the name. Similarly, 'ls' vs. 'lS' will render two different outputs because the commands are different. 
+
+### Spaces in Names
+
+While spaces can be used within names, they will run the risk of being misunderstood as two distinct command line arguments. To ensure that naes containing words separated by spaces are understood as a single command line argument, use one of two conventions:
+1. Use quotes around the entire item. i.e., cd 'Holiday Photos'
+2. Use an escape character (\) before the space to nullify its meaning, i.e., cd Holiday\ Photos
+
+## PRO TIP!
+Use Tab Completion to fill in the name and Linux will automatically escape any spaces for you.
+
+### Hidden Files
+Hidden files are created when a file or directory begins with a period (.) by adding '-a' to a command, hidden files may be revealed. i.e., 'ls -a'. 
+
+
 
