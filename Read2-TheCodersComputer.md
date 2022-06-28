@@ -1,0 +1,47 @@
+# Read 2: The Coder's Computer
+
+### Text Editor vs. Code Editor vs. IDE
+
+A text editor is a tool that allows one to organize and format text. Eamples include MS Word and Google Docs. These examples are "What you see is what you get" (WYSIWYG) because the final product will look identical to the text that has been inputted/formatted. 
+
+A code editor is a type of text editor that helps is designed to help coders write code. Unlike WYSIWYG applications, the inputted code's format will not resemble the text that is output. Unlike word processing text editors, code editors contain additional features that assist in formatting, editing, and proofing code such as syntax highlighting. Features of text editors may include:
+
+- Code Completion: Suggests possible code to increase efficiency and reduce typos
+- Syntax Highlighting: Colorizes text to make it more readable, and easier to discern between the different parts of code, i.e., elements and attributes. 
+- Themes: A variety of formats to choose from that make code easier to read and reduce eye strain
+- Extensions: Plug-ins that increase the utility of the application
+
+An Integrated Development Environment, (IDE) combines many tools all in one place such as a text editor, a code editor, termnal, and database. This allows a coder to stay within the same platform when writing, rather than needed to more between applications. 
+
+Whichever of these a person chooses depends on their own preferences, needs, and workflow. This can be subjective  Ultimately, whichever tools gets the job done best for a prticular person or team is the best one to use.  In the same way that a hammer, sledgehammer, and ball peen hammer all serve specific purposes, **it is important that developers understand the needs of their projects, teams, and organizaitions so they can choose the right tool for the coding task that helps them code efficiently and effectively.**
+
+### Best Practices to Bear in Mind When Coding with Text Editors
+
+- Make sure to code in plain text
+- Create folders and subfolders to store files in an organized fashion
+- Make sure that files contain the appropriate extension, i.e.:
+  - style._**css**_
+  - index._**html**_
+
+### The Command Line
+
+Most computer users interact with their machines by using a **Graphical User Interface (GUI)**, where they can command their machines to run applications and store files by interacting with icons and other visual elements. A **Command Line**, (i.e. Terminal), is a text-based interface that can provide additional functionality for computer users. Commands are entered as text, and feedback is delivered back to the user in text.
+
+#### Common commands to be used in the Command Line include:
+- pwd (print working directory): The “Where am i?” command
+- ls (list): lists all of the items that are in the directory the user is currently in
+- cd (change directory): (ex: cd directoryname
+- mkdir (make directory)
+- cd.. (change directory and go back one): However many levels you want to go back, indicate one dot, and then add one. 
+- touch (make a file): ex '~ touch hiclass.md' would create a new markdown file called hiclass.
+- code . (opens a new window with everything in the folder)
+- tree (shows the tree of files. Similar to ls). It shows everything that is also inside of other directories.
+- -a (i.e., 'tree -a'): If one were to hide files, adding this to the end of a command may reveal the hidden files.
+
+#### Types of Information entered and received from the Command Line:
+
+1. The first command line argument (i.e., '-l') is also referred to as an option. Options are typically used to modify the behaviour of the command. Options are usually listed before other arguments and typically start with a dash ( - ).
+2. Most commands produce output and it will be listed straight under the issuing of the command. Other commands just perform their task and don't display any information unless there was an error.
+3. After the command has run and the terminal is ready for you to enter another command the prompt will be displayed. If no prompt is displayed then the command may still be running
+
+
