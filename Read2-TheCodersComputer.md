@@ -70,7 +70,7 @@ Relative paths specify a location (file or directory) in relation to where a use
 ## PRO TIP! ##
 *When you start typing a path you may hit the Tab key on your keyboard at any time which will invoke an auto complete action. If nothing happens then that means there are several possibilities. If you hit Tab again it will show you those possibilities.*
 
-### Everything is a File in Linux
+### In Linux, Everything is a File
 
 Unlike other systems, Linux does not use file extensions, i.e. .exe, .txt, .png, .jpg, .gif, etc. Instead, Linux looks inside the file to determine what it is. This is why on a mac, one can simply change a file extension to create a file with a different extension for use elsewhere, i.e., changing the extension of a picture from .jpg to .png. When no extension is present, the file type can be determined by using the command 'file', i.e. 'file [path]'.
 
