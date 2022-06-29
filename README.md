@@ -28,3 +28,4 @@ Stephen Clemmer loves to learn, try new things, and create stuff to make life mo
 
 ###### Check out Stephen's github portfolio at: [https://github.com/stephenclemmer](https://github.com/stephenclemmer)
 ###### Email Stephen at: stephenjclemmer@gmail.com
+.
