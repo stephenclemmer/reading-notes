@@ -4,6 +4,9 @@
 
 [Read 2: The Coder's Computer](./Read2-TheCodersComputer.md)
 
+[Read 3 Revisions and the Cloud](./Read3-RevisionsandtheCloud.md)
+
+[Read 4: Structure Web Pages with HTML](./Read4-StructureWebPageswithHTML.md)
 
 Mindset is one's perception of their abilities. A *fixed mindset* is a belief that one's abilities are unable to be affected, whereas a **growth minsdet** is a belief that one's abilities can be affected. ***A growth mindset is essential for success within the tech field.***
 
