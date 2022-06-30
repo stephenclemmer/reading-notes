@@ -12,7 +12,7 @@
 
 [Read 6: Dynamic Web Pages with JavaScript](./Read6-DynamicWebPageswithJavaScript.md)
 
-[Read 7: Programming with JavaScript](./Read7-ProgrtammingWithJavaScript.md)
+[Read 7: Programming with JavaScript](./Read7-ProgrammingWithJavaScript.md)
 
 [Read 8: Operators and Loops](./Read8-OperatorsAndLoops.md)
 
