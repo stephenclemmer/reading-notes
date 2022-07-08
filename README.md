@@ -1,4 +1,6 @@
-# Code 201 Reading Notes
+# Code Fellows Reading Notes
+
+## Code 201 Reading Notes
 
 [Read 1:](./201-Read-01.md)
 
@@ -30,7 +32,7 @@
 
 [Read 15:](./201-Read-15.md)
 
-# Code 102 Reading Notes
+## Code 102 Reading Notes
 
 [Read 1: Learning Markdown](./Read1-LearningMarkdown.md)
 
