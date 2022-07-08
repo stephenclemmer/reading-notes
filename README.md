@@ -1,4 +1,36 @@
-# My Notes for Coding 102 Readings
+# Code 201 Reading Notes
+
+[Read 1: ](./201-Read1.md)
+
+[Read 2: ](./201-Read2.md)
+
+[Read 3: ](./201-Read3.md)
+
+[Read 4: ](./201-Read4.md)
+
+[Read 5: ](./201-Read5.md)
+
+[Read 6: ](./201-Read6.md)
+
+[Read 7: ](./201-Read7.md)
+
+[Read 8: ](./201-Read8.md)
+
+[Read 9: ](./201-Read9.md)
+
+[Read 10: ](./201-Read10.md)
+
+[Read 11: ](./201-Read11.md)
+
+[Read 12: ](./201-Read12.md)
+
+[Read 13: ](./201-Read13.md)
+
+[Read 14: ](./201-Read14.md)
+
+[Read 15: ](./201-Read15.md)
+
+# Code 102 Reading Notes
 
 [Read 1: Learning Markdown](./Read1-LearningMarkdown.md)
 
