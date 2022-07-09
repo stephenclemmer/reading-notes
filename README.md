@@ -2,35 +2,35 @@
 
 ## Code 201 Reading Notes
 
-[Read 1:](./201-Read-01.md)
+[Read 1:](./class-01.md)
 
-[Read 2:](./201-Read-02.md)
+[Read 2:](./class-02.md)
 
-[Read 3:](./201-Read-03.md)
+[Read 3:](./class-03.md)
 
-[Read 4:](./201-Read-04.md)
+[Read 4:](./class-04.md)
 
-[Read 5:](./201-Read-05.md)
+[Read 5:](./class-05.md)
 
-[Read 6:](./201-Read-06.md)
+[Read 6:](./class-06.md)
 
-[Read 7:](./201-Read-07.md)
+[Read 7:](./class-07.md)
 
-[Read 8:](./201-Read-08.md)
+[Read 8:](./class-08.md)
 
-[Read 9:](./201-Read-09.md)
+[Read 9:](./class-09.md)
 
-[Read 10:](./201-Read-10.md)
+[Read 10:](./class-10.md)
 
-[Read 11:](./201-Read-11.md)
+[Read 11:](./class-11.md)
 
-[Read 12:](./201-Read-12.md)
+[Read 12:](./class-12.md)
 
-[Read 13:](./201-Read-13.md)
+[Read 13:](./class-13.md)
 
-[Read 14:](./201-Read-14.md)
+[Read 14:](./class-14.md)
 
-[Read 15:](./201-Read-15.md)
+[Read 15:](./class-15.md)
 
 ## Code 102 Reading Notes
 
