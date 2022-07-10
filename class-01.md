@@ -9,8 +9,11 @@
 1.**Compose a short poem describing how HTTP sends data between computers.**
 
 ***The client requests service. The server responds with service.***
+
 **The client asks for a menu. The server responds with a menu.**
+
 *The client orders a meal. The server puts in the order.*
+
 The kitchen makes the order. The client picks up the meal.
 
 2.**Describe how HTML, CSS, and JS files are “parsed” in the browser.**
