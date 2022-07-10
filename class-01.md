@@ -6,25 +6,39 @@
 
 ## How the Web Works
 
-## How the Web Works
-
-1. **Compose a short poem describing how HTTP sends data between computers.**
+1.**Compose a short poem describing how HTTP sends data between computers.**
 
 ***The client requests service. The server responds with service.***
 **The client asks for a menu. The server responds with a menu.**
 *The client orders a meal. The server puts in the order.*
 The kitchen makes the order. The client picks up the meal.
 
-2. **Describe how HTML, CSS, and JS files are “parsed” in the browser.**
-The browser parses the HTML file first, and that leads to the browser recognizing any \<link>-element references to external CSS stylesheets and any \<script>-element references to scripts.
-As the browser parses the HTML, it sends requests back to the server for any CSS files it has found from \<link> elements, and any JavaScript files it has found from \<script> elements, and from those, then parses the CSS and JavaScript.
-The browser generates an in-memory DOM tree from the parsed HTML, generates an in-memory CSSOM structure from the parsed CSS, and compiles and executes the parsed JavaScript.
-As the browser builds the DOM tree and applies the styles from the CSSOM tree and executes the JavaScript, a visual representation of the page is painted to the screen, and the user sees the page content and can begin to interact with it.
+2.**Describe how HTML, CSS, and JS files are “parsed” in the browser.**
 
+- The browser parses the HTML file first, and that leads to the browser to recognize:
+  - any \<link>-element references to external CSS stylesheets 
+  - any \<script>-element references to scripts.
 
-3. **How can you find images to add to a Website?**
-4. **How do you create a String vs a Number in JavaScript?**
-5. **What is a Variable and why are they important in JavaScript?**
+- As the browser parses the HTML:
+  - It sends requests back to the server for any CSS files it has found from \<link> elements,
+  - Then sends requests back to the server for any JavaScript files it has found from \<script> elements,
+  - Then uses the CSS files and JavaScript files to parse the CSS and JavaScript.
+
+- The browser:
+  - Generates an in-memory DOM tree from the parsed HTML, 
+  - Generates an in-memory CSSOM structure from the parsed CSS,
+  - Compiles and executes the parsed JavaScript.
+
+- As the browser builds the DOM tree and applies the styles from the CSSOM tree and executes the JavaScript: 
+  - A visual representation of the page is painted to the screen,
+  - The user sees the page content and can begin to interact with it.
+
+## Website Design and Process
+
+3.**How can you find images to add to a Website?**
+
+4.**How do you create a String vs a Number in JavaScript?**
+5.**What is a Variable and why are they important in JavaScript?**
 
 ## Ryan's Linux Tutorial
 
