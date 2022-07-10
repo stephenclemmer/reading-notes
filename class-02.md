@@ -1,1 +1,1 @@
-This is a space reserved for a future reading's notes.
+This is a space reserved for a future reading's note.
