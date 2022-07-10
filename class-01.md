@@ -16,6 +16,7 @@
 
   *The kitchen makes the order. The client picks up the meal.*
 
+
 **How HTML, CSS, and JS files are “parsed” in the browser:**
 
 The browser parses the HTML file first, and that leads to the browser to recognize:
