@@ -42,10 +42,59 @@
 
 ## Website Design and Process
 
-3.**How can you find images to add to a Website?**
+Planning
+- What is your website about?
+- What information are you presenting on the subject?
+- What does your website look like?
+  - Sketch out your design
+  - Choose your assets
+  - Text
+  - Theme Color
+  - Images
+  - Font
 
-4.**How do you create a String vs a Number in JavaScript?**
-5.**What is a Variable and why are they important in JavaScript?**
+**How to find images to add to a Website:**
+1. Go to Google Images and search for something suitable.
+2. Click on the image to get an enlarged view of it.
+3. Right-click the image (Ctrl + click on a Mac), choose Save Image As..., and choose a safe place to save your image, or alternatively, copy the image's web address from your browser's address bar for later use.
+
+## JavaScript Basics
+
+**How to Add JavaScript to a Page:**
+
+1. Create a new folder named scripts. Within the scripts folder, create a new text document called main.js, and save it.
+2. In your index.html file, enter this code on a new line, just before the closing \</body> tag:
+
+> \<script src="scripts/main.js"></script>`
+
+This is doing the same job as the \<link> element for CSS. It applies the JavaScript to the page, so it can have an effect on the HTML (along with the CSS, and anything else on the page).
+
+3. Add this code to the main.js file:
+
+> const myHeading = document.querySelector('h1');
+> myHeading.textContent = 'Hello world!';
+
+4. Make sure the HTML and JavaScript files are saved. Then load index.html in your browser.
+
+**How to denote a String vs a Number in JavaScript?**
+To signify that the value is a string, enclose it in single quote marks. Numbers are written without quotes around them. 
+
+**String:**
+> let myVariable = 'Bob';
+
+**Number:**
+> let myVariable = 10;
+
+
+**Variables and Why They are Important in JavaScript**
+
+- **Variables** are containers that store values. You start by declaring a variable with the let keyword, followed by the name you give to the variable:
+
+> let myVariable;
+
+A semicolon at the end of a line indicates where a statement ends. It is only required when you need to separate statements on a single line. However, some people believe it's good practice to have semicolons at the end of each statement.
+
+Variables are necessary to do anything interesting in programming. If values couldn't change, then one couldn't do anything dynamic, like personalize a greeting message or change an image displayed in an image gallery.
 
 ## Ryan's Linux Tutorial
 
