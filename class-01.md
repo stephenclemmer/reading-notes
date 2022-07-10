@@ -6,7 +6,7 @@
 
 ## How the Web Works
 
-**How HTTP sends data between computers:**
+### **How HTTP sends data between computers:**
 
   **The client requests service. The server responds with service.**
 
@@ -17,7 +17,7 @@
   *The kitchen makes the order. The client picks up the meal.*
 
 
-**How HTML, CSS, and JS files are “parsed” in the browser:**
+### **How HTML, CSS, and JS files are “parsed” in the browser:**
 
 The browser parses the HTML file first, and that leads to the browser to recognize:
 - any \<link>-element references to external CSS stylesheets
