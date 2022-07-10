@@ -6,7 +6,7 @@
 
 ## How the Web Works
 
-1.**Compose a short poem describing how HTTP sends data between computers.**
+1.**How HTTP sends data between computers:**
 
 **The client requests service. The server responds with service.**
 
