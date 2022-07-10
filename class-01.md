@@ -19,22 +19,22 @@
 **How HTML, CSS, and JS files are “parsed” in the browser:**
 
 The browser parses the HTML file first, and that leads to the browser to recognize:
--any \<link>-element references to external CSS stylesheets
--any \<script>-element references to scripts.
+- any \<link>-element references to external CSS stylesheets
+- any \<script>-element references to scripts.
 
 As the browser parses the HTML:
--It sends requests back to the server for any CSS files it has found from \<link> elements,
--Then sends requests back to the server for any JavaScript files it has found from \<script> elements,
--Then uses the CSS files and JavaScript files to parse the CSS and JavaScript.
+- It sends requests back to the server for any CSS files it has found from \<link> elements,
+- Then sends requests back to the server for any JavaScript files it has found from \<script> elements,
+- Then uses the CSS files and JavaScript files to parse the CSS and JavaScript.
 
 The browser:
--Generates an in-memory DOM tree from the parsed HTML,
--Generates an in-memory CSSOM structure from the parsed CSS,
--Compiles and executes the parsed JavaScript.
+- Generates an in-memory DOM tree from the parsed HTML,
+- Generates an in-memory CSSOM structure from the parsed CSS,
+- Compiles and executes the parsed JavaScript.
 
 As the browser builds the DOM tree and applies the styles from the CSSOM tree and executes the JavaScript:
--A visual representation of the page is painted to the screen,
--The user sees the page content and can begin to interact with it.
+- A visual representation of the page is painted to the screen,
+- The user sees the page content and can begin to interact with it.
 
 ## Website Design and Process
 
