@@ -2,7 +2,7 @@
 
 ## Code 201 Reading Notes
 
-[Read 1:](./class-01.md)
+[Read 1: Introductory HTML and JavaScript](./class-01.md)
 
 [Read 2:](./class-02.md)
 
