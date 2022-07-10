@@ -71,17 +71,17 @@ Prompt: Command: Command-line arguments
 ### Commands
 
 **pwd**: (print working directory) Tells you what your current or present working directory is.
-**ls**: (list) Lists the contents of the current directory. i.e., ls [options][location]
+**ls**: (list) Lists the contents of the current directory. i.e., ls \[options][location]
 -- **-l**: (long listing, i.e., ls -l)
 -- **/etc***: (i.e., ls /etc) Tells ls not to list our current directory but instead to list that directory's contents.
 **ls -a**: will list all files, including those that are hidden.
-**cd**: (change directory ex, cd [location]) Change Directories - ie. move to another directory.
+**cd**: (change directory ex, cd \[location]) Change Directories - ie. move to another directory.
 **/etc**: - Stores config files for the system.
 **/var/log**: - Stores log files for various system programs. 
 **/bin**: - The location of several commonly used programs.
 **/usr/bin**: - Another location for programs on the system.
-**file [path]**: To obtain information about what type of file a file or directory is.
-**man <command to look up>**: Accesses the manual for a particular command.
+**file \[path]**: To obtain information about what type of file a file or directory is.
+**man \<command to look up>**: Accesses the manual for a particular command.
 
 ### Paths
 
@@ -150,4 +150,3 @@ Renaming can be done using mv. Were one to specify the *destination* to be the *
 **rm**: Removes a file, i.e., rm \[options]\<file>
 **rm -r**: Removes directories and all files contained within them.
 *A good option to use in combination with r is i which stands for interactive. This option will prompt you before removing each file and directory and give you the option to cancel the command.*
-
