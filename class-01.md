@@ -2,11 +2,11 @@
 
 ## Things I Want to Know More About
 
-1. Practical uses for the Bang Operator (!)
+1. What are practical uses for (!) the Bang Operator?
 
 ## How the Web Works
 
-1.**How HTTP sends data between computers:**
+**How HTTP sends data between computers:**
 
 **The client requests service. The server responds with service.**
 
