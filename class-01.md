@@ -85,6 +85,7 @@ To signify that the value is a string, enclose it in single quote marks. Numbers
 **Number:**
 > let myVariable = 10;
 
+### Important Concepts
 
 **Variables and Why They are Important in JavaScript**
 
@@ -95,6 +96,69 @@ To signify that the value is a string, enclose it in single quote marks. Numbers
 A semicolon at the end of a line indicates where a statement ends. It is only required when you need to separate statements on a single line. However, some people believe it's good practice to have semicolons at the end of each statement.
 
 Variables are necessary to do anything interesting in programming. If values couldn't change, then one couldn't do anything dynamic, like personalize a greeting message or change an image displayed in an image gallery.
+
+- **Operators** are mathematical symbols that produces a result based on two values (or variables). 
+
+- **Conditionals** are code structures used to test if an expression returns true or not. A very common form of conditionals is the if ... else statement.
+
+- **Functions** are a way of packaging functionality that you wish to reuse.
+
+- **Events**: Real interactivity on a website requires event handlers. These are code structures that listen for activity in the browser, and run code in response.
+
+### Getting Started with HTML: HTML Document Structure and Metadata in HTML:
+
+- **Anatomy of an HTML Document**: 
+
+><!DOCTYPE html>
+>\<html>
+>  <head>
+>    <meta charset="utf-8">
+>    <title>My test page</title>
+>  </head>
+>  <body>
+>    <p>This is my page</p>
+>  </body>
+></html>
+
+- **Additional Elements within a Typical Website**:
+  - header: \<header>.
+  - navigation bar: \<nav>.
+  - main content: \<main>, with various content subsections represented by \<article>, \<section>, and \<div> elements.
+  - sidebar: \<aside>; often placed inside \<main>.
+  - footer: \<footer>.
+  - anchor tags: \<a>
+
+- **Anatomy of an HTML Element**:
+An eleent contains an opening tag and a closing tag. Content to be displayed is written in between these tags. 
+
+- **HTML Attribute**: Attributes contain extra information about the element that won't appear in the content. An attribute should have:
+
+  - A space between it and the element name. (For an element with more than one attribute, the attributes should be separated by spaces too.)
+  - The attribute name, followed by an equal sign.
+  - An attribute value, wrapped with opening and closing quote marks.
+
+- **Difference between \<article> and \<Section> element tags**:
+
+**\<article>**: The \<article> HTML element represents a self-contained composition in a document, page, application, or site, ***which is intended to be independently distributable or reusable*** (e.g., in syndication). Examples include: a forum post, a magazine or newspaper article, or a blog entry, a product card, a user-submitted comment, an interactive widget or gadget, or any other independent item of content.
+
+**\<section>**: The \<section> HTML element represents a ***generic*** standalone section of a document, which doesn't have a more specific semantic element to represent it. Sections should always have a heading, with very few exceptions.
+
+**Metadata's Influence on SEO**
+Although metadata is not displayed to the user, it helps to define how relevant information is, which will afect where it shows up on the results page.
+
+**The \<meta> tag's Purpose:
+The \<meta> tag defines metadata about an HTML document. Metadata is data (information) about data. \<meta> tags always go inside the \<head> element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
+
+### How to Start to Design a Website
+
+Websites are tools. The first step to designing a website is to define what one wishes to accomplish with it. The most important question to answer is: "What exactly is this site trying to accomplish?"
+
+### Semantics
+Using an \<h1> element to define a top-level heading rather than using a \<span> element is an example of employing a semantic element over an element that is not semantic.
+
+The \<h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page", whereas the \<span> element is not semantic and does not lend any meaning to understanding the content.
+
+
 
 ## Ryan's Linux Tutorial
 
