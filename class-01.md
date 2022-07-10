@@ -4,6 +4,28 @@
 
 1. Practical uses for the Bang Operator (!)
 
+## How the Web Works
+
+## How the Web Works
+
+1. **Compose a short poem describing how HTTP sends data between computers.**
+
+***The client requests service. The server responds with service.***
+**The client asks for a menu. The server responds with a menu.**
+*The client orders a meal. The server puts in the order.*
+The kitchen makes the order. The client picks up the meal.
+
+2. **Describe how HTML, CSS, and JS files are “parsed” in the browser.**
+The browser parses the HTML file first, and that leads to the browser recognizing any \<link>-element references to external CSS stylesheets and any \<script>-element references to scripts.
+As the browser parses the HTML, it sends requests back to the server for any CSS files it has found from \<link> elements, and any JavaScript files it has found from \<script> elements, and from those, then parses the CSS and JavaScript.
+The browser generates an in-memory DOM tree from the parsed HTML, generates an in-memory CSSOM structure from the parsed CSS, and compiles and executes the parsed JavaScript.
+As the browser builds the DOM tree and applies the styles from the CSSOM tree and executes the JavaScript, a visual representation of the page is painted to the screen, and the user sees the page content and can begin to interact with it.
+
+
+3. **How can you find images to add to a Website?**
+4. **How do you create a String vs a Number in JavaScript?**
+5. **What is a Variable and why are they important in JavaScript?**
+
 ## Ryan's Linux Tutorial
 
 ### Important Concepts
@@ -60,11 +82,11 @@ Whenever we refer to either a file or directory on the command line, we are in f
 #### Spaces in Names
 
 - Use quotes or an escape character before spaces ( \ ) to denote that a file name with spaces in the title is a single command line argument.
-- Use Tab Completion to automatically escape spaces in a title. 
+- Use Tab Completion to automatically escape spaces in a title.
 
 #### Hidden Files
 
-- Use a period ( . ) at the beginning of a file name to make it hidden. 
+- Use a period ( . ) at the beginning of a file name to make it hidden.
 - ls -a will list all files, including those that are hidden.
 
 ### Manual Pages
@@ -83,23 +105,23 @@ If you want to search within a manual page while you are in the particular manua
 
 ### File Manipulation
 
-**mkdir**: command used to make a new directory. i.e., mkdir [options]<Directory>
+**mkdir**: command used to make a new directory. i.e., mkdir \[options]\<Directory>
 **mk dir -p**: Tells mkdir to make parent directories as needed, i.e., mkdir -p directory/subdirectory1/subdirectory2
 **mk dir -v**: The v stands for verbose. The terminal will display in detail what was done.
-**rmdir**: Removes a directory. i.e., rmdir [options]<Directory>. Technically a directory needs to be empty before it can be removed, however there is a way around this that I will learn later. -p and -v are both available on rmdir.
+**rmdir**: Removes a directory. i.e., rmdir \[options]\<Directory>. Technically a directory needs to be empty before it can be removed, however there is a way around this that I will learn later. -p and -v are both available on rmdir.
 
 #### Creating a Blank File
 
-**touch**: Creates a blank file i.e., touch [options]<filename>
+**touch**: Creates a blank file i.e., touch \[options]\<filename>
 What is being taken advantage of is that if we touch a file and it does not exist, the command will do us a favor and automatically creating it for us. Touch is actually a command one may use to modify the access and modification times on a file (normally not needed but sometimes when you're testing a system that relies on file access or modification times it can be useful).
 
 #### Copying a File or Directory
 
-**cp**: Copies a file or directory, i.e., cp [options]<source><destination>
+**cp**: Copies a file or directory, i.e., cp \[options]\<source>\<destination>
 
 #### Moving a File or Directory
 
-**mv**: Moves a file or directory, i.e., mv [options]<source><destination>
+**mv**: Moves a file or directory, i.e., mv \[options]\<source>\<destination>
 
 #### Renaming Files and Directories
 
@@ -107,7 +129,7 @@ Renaming can be done using mv. Were one to specify the *destination* to be the *
 
 #### Removing a File (and Non-Empty Directories)
 
-**rm**: Removes a file, i.e., rm [options]<file>
+**rm**: Removes a file, i.e., rm \[options]\<file>
 **rm -r**: Removes directories and all files contained within them.
 *A good option to use in combination with r is i which stands for interactive. This option will prompt you before removing each file and directory and give you the option to cancel the command.*
 
