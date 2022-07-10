@@ -1,5 +1,10 @@
 # Read 1: Introductory HTML and JavaScript
 
+HTML, CSS, and JavaScript are the basis of modern webpages. Understanding their structure and interactivity are essential to being able to program.
+
+Sources for the notes that follow include pages from 'https://developer.mozilla.org/'
+
+
 ## Things I Want to Know More About
 
 1. What are practical uses for (!) the Bang Operator?
@@ -60,6 +65,16 @@ Planning
 
 ## JavaScript Basics
 
+***JavaScript is used for adding interactive behavior to web pages. JavaScript allows users to interact with web pages:***
+
+- Show or hide more information with the click of a button
+- Change the color of a button when the mouse hovers over it
+- Slide through a carousel of images on the homepage
+- Zooming in or zooming out on an image
+- Displaying a timer or count-down on a website
+- Playing audio and video in a web page
+- Displaying animations
+
 **How to Add JavaScript to a Page:**
 
 1. Create a new folder named scripts. Within the scripts folder, create a new text document called main.js, and save it.
@@ -104,6 +119,8 @@ Variables are necessary to do anything interesting in programming. If values cou
 - **Functions** are a way of packaging functionality that you wish to reuse.
 
 - **Events**: Real interactivity on a website requires event handlers. These are code structures that listen for activity in the browser, and run code in response.
+
+
 
 ### Getting Started with HTML: HTML Document Structure and Metadata in HTML:
 
