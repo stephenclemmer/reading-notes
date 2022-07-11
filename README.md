@@ -4,7 +4,7 @@
 
 [Read 1: Introductory HTML and JavaScript](./class-01.md)
 
-[Read 2:](./class-02.md)
+[Read 2: Basics of HTML, CSS & JavaScript](./class-02.md)
 
 [Read 3:](./class-03.md)
 

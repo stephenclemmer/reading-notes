@@ -1,1 +1,74 @@
-This is a space reserved for a future reading's notes.
+# Read 2: Basics of HTML, CSS & JavaScript
+
+## Introduction to HTML
+
+### HTML Text Fundamentals
+
+**Why is it important to use semantic elements in our HTML?**
+HTML seeks to give a page structure and meaning with paragraphs, headings, lists, emphasis, and quotations. Semantic elements are used to more clearly demonstrate the intent of the programmer to others reading the code. For instance:
+
+Paragraphs: \<p>
+Headings: \<h1> - \<h6>
+Lists: \<ul>, \<ol>, \<li>
+Emphasis: \<em>
+Quotations: \<q>
+Strong: \<stromg>
+Bold: \<b>
+Italic: \<i>
+Underline: \<u>
+
+Other reasons that using semantic HTML is beneficial:
+
+- Users can more easily scan the page for relevant content
+- Search engines indexing the page consider the contents of headings to be relevant keywords, so choosing making sure that headings contain keywords will affect SEO.
+- Semantic HTML allows screen readers and other accessibility features to be effective
+- Elements that affect style in CSS or functionality with JavaScript need to wrap relevant content to ensure that they are effectively targted.
+
+**How many levels of headings are there in HTML?**
+There are six levels of headings in HTML H1 - H6
+
+### HTML Advanced Text Formatting
+
+**What are some uses for the \<sup> and \<sub> elements?**
+\<sup> elements ...
+\<sub> elements ...
+
+**When using the \<abbr> element, what attribute must be added to provide the full expansion of the term?**
+
+## Learn CSS
+
+### How CSS is Structured
+
+What are ways we can apply CSS to our HTML?
+Why should we avoid using inline styles?
+Review the block of code below and answer the following questions:
+What is representing the selector?
+Which components are the CSS declarations?
+Which components are considered properties?
+
+## Learn JavaScript
+
+### JavaScript Basics: Comments - Events
+
+**What data type is a sequence of text enclosed in single quote marks?**
+
+
+**List 4 types of JavaScript operators.**
+
+
+**Describe a real world Problem you could solve with a Function.**
+
+
+### Making Decisions in Your Code - Conditionals
+
+An if statement checks a condition and if it evaluates to true, then the code block will execute. Otherwise it will not execute and will proceed to try and execute the next codeblock in the function.
+
+An else-if statement tells the computer to execute the argument if the preceding command did not evaluate to true.
+
+List 3 different types of comparison operators.
+**Different types of comparison operators:**
+
+**Difference between the logical operator && and ||?**
+&& means that the computer should evaluate as true if ***both*** statements on either side of the && evaluate to true.
+
+|| means that the computer should evaluate as true if ***either*** of the statements on either side of the && evaluate to true.
