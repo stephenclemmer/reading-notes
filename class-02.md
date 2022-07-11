@@ -51,12 +51,73 @@ The abbreviation element, \<abbr> , is used to wrap around an abbreviation or ac
 
 ### How CSS is Structured
 
-What are ways we can apply CSS to our HTML?
-Why should we avoid using inline styles?
-Review the block of code below and answer the following questions:
-What is representing the selector?
-Which components are the CSS declarations?
-Which components are considered properties?
+**Three methods to apply CSS to HTML:**
+
+1. External stylesheet: An external stylesheet contains CSS in a separate file with a .css extension. This is the most common and useful method of bringing CSS to a document. You can link a single CSS file to multiple web pages, styling all of them with the same CSS stylesheet. The external stylesheet would be linked to the .html file within the head, for example:
+
+`<!DOCTYPE html>`
+`<html>`
+`  <head>`
+`    <meta charset="utf-8">`
+`    <title>My CSS experiment</title>`
+`    <link rel="stylesheet" href="styles.css">`
+`  </head>`
+`  <body>`
+`    <h1>Hello World!</h1>`
+`    <p>This is my first CSS example</p>`
+`  </body>`
+`</html>`
+
+
+2. Internal stylesheet: An internal stylesheet resides within an HTML document. To create an internal stylesheet, you place CSS inside a \<style> element contained inside the HTML \<head>.
+
+`<!DOCTYPE html>`
+`<html>`
+`  <head>`
+`    <meta charset="utf-8">`
+`    <title>My CSS experiment</title>`
+`    <style>`
+`      h1 {`
+`        color: blue;`
+`        background-color: yellow;`
+`        border: 1px solid black;`
+`      }`
+` `
+`      p {`
+`        color: red;`
+`      }`
+`    </style>`
+`  </head>`
+`  <body>`
+`    <h1>Hello World!</h1>`
+`    <p>This is my first CSS example</p>`
+`  </body>`
+`</html>`
+
+
+3. Inline styles: Inline styles are CSS declarations that affect a single HTML element, contained within a style attribute. For instance:
+
+`<!DOCTYPE html>`
+`<html>`
+`  <head>`
+`    <meta charset="utf-8">`
+`    <title>My CSS experiment</title>`
+`  </head>`
+`  <body>`
+`    <h1 style="color: blue;background-color: yellow;border: 1px solid black;">Hello World!</h1>`
+`    <p style="color:red;">This is my first CSS example</p>`
+`  </body>`
+`</html>`
+
+**Why should we avoid using inline styles?**
+
+**Review the block of code below and answer the following questions:**
+
+**What is representing the selector?**
+
+**Which components are the CSS declarations?**
+
+**Which components are considered properties?**
 
 ## Learn JavaScript
 
