@@ -27,13 +27,25 @@ Other reasons that using semantic HTML is beneficial:
 **How many levels of headings are there in HTML?**
 There are six levels of headings in HTML H1 - H6
 
+**Adding Hyperlinks to a Page**
+A basic link is created by wrapping the text or other content inside an \<a> element and using the href attribute, also known as a Hypertext Reference, or target, that contains the web address.
+
+> \<p>I'm creating a link to
+> \<a href="https://www.mozilla.org/en-US/">the Mozilla homepage</a>.
+> \</p>
+
 ### HTML Advanced Text Formatting
 
 **What are some uses for the \<sup> and \<sub> elements?**
-\<sup> elements ...
-\<sub> elements ...
+Superscript and subscript are used when marking up items like dates, chemical formulae, and mathematical equations so they have the correct meaning.
+
+- \<sup> elements are denoted on the top half of the script's line.
+- \<sub> elements are denoted on the bottom half of the script's line.
 
 **When using the \<abbr> element, what attribute must be added to provide the full expansion of the term?**
+The abbreviation element, \<abbr> , is used to wrap around an abbreviation or acronym, and provide a full expansion of the term (included inside a title attribute. For example:
+
+> \<p>We use \<abbr title="Hypertext Markup Language">HTML</abbr> to structure our web documents.\</p>
 
 ## Learn CSS
 
@@ -52,12 +64,9 @@ Which components are considered properties?
 
 **What data type is a sequence of text enclosed in single quote marks?**
 
-
 **List 4 types of JavaScript operators.**
 
-
 **Describe a real world Problem you could solve with a Function.**
-
 
 ### Making Decisions in Your Code - Conditionals
 
