@@ -12,7 +12,7 @@ HTML seeks to give a page structure and meaning with paragraphs, headings, lists
 - Lists: \<ul>, \<ol>, \<li>
 - Emphasis: \<em>
 - Quotations: \<q>
-- Strong: \<stromg>
+- Strong: \<strong>
 - Bold: \<b>
 - Italic: \<i>
 - Underline: \<u>
