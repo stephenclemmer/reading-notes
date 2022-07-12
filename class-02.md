@@ -7,8 +7,8 @@
 **Why is it important to use semantic elements in our HTML?**
 HTML seeks to give a page structure and meaning with paragraphs, headings, lists, emphasis, and quotations. Semantic elements are used to more clearly demonstrate the intent of the programmer to others reading the code. For instance:
 
-Paragraphs: \<p>
-Headings: \<h1> - \<h6>
+Paragraphs: ```<p>```
+Headings: ```<h1>``` - ```\<h6>```
 Lists: \<ul>, \<ol>, \<li>
 Emphasis: \<em>
 Quotations: \<q>
