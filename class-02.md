@@ -7,15 +7,15 @@
 **Why is it important to use semantic elements in our HTML?**
 HTML seeks to give a page structure and meaning with paragraphs, headings, lists, emphasis, and quotations. Semantic elements are used to more clearly demonstrate the intent of the programmer to others reading the code. For instance:
 
-Paragraphs: ```<p>```
-Headings: ```<h1>``` - ```\<h6>```
-Lists: \<ul>, \<ol>, \<li>
-Emphasis: \<em>
-Quotations: \<q>
-Strong: \<stromg>
-Bold: \<b>
-Italic: \<i>
-Underline: \<u>
+- Paragraphs: ```<p>```
+- Headings: ```<h1>``` - ```\<h6>```
+- Lists: \<ul>, \<ol>, \<li>
+- Emphasis: \<em>
+- Quotations: \<q>
+- Strong: \<stromg>
+- Bold: \<b>
+- Italic: \<i>
+- Underline: \<u>
 
 Other reasons that using semantic HTML is beneficial:
 
@@ -45,7 +45,7 @@ Superscript and subscript are used when marking up items like dates, chemical fo
 **When using the \<abbr> element, what attribute must be added to provide the full expansion of the term?**
 The abbreviation element, \<abbr> , is used to wrap around an abbreviation or acronym, and provide a full expansion of the term (included inside a title attribute. For example:
 
-> \<p>We use \<abbr title="Hypertext Markup Language">HTML</abbr> to structure our web documents.\</p>
+\<p>We use \<abbr title="Hypertext Markup Language">HTML</abbr> to structure our web documents.\</p>
 
 ## Learn CSS
 
@@ -53,9 +53,10 @@ The abbreviation element, \<abbr> , is used to wrap around an abbreviation or ac
 
 **Three methods to apply CSS to HTML:**
 
-1. External stylesheet: An external stylesheet contains CSS in a separate file with a .css extension. This is the most common and useful method of bringing CSS to a document. You can link a single CSS file to multiple web pages, styling all of them with the same CSS stylesheet. The external stylesheet would be linked to the .html file within the head, for example:
+1.External stylesheet: An external stylesheet contains CSS in a separate file with a .css extension. This is the most common and useful method of bringing CSS to a document. You can link a single CSS file to multiple web pages, styling all of them with the same CSS stylesheet. The external stylesheet would be linked to the .html file within the head, for example:
 
-```<!DOCTYPE html>
+``` text
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -69,10 +70,10 @@ The abbreviation element, \<abbr> , is used to wrap around an abbreviation or ac
 </html>
 ```
 
+2.Internal stylesheet: An internal stylesheet resides within an HTML document. To create an internal stylesheet, you place CSS inside a \<style> element contained inside the HTML \<head>.
 
-2. Internal stylesheet: An internal stylesheet resides within an HTML document. To create an internal stylesheet, you place CSS inside a \<style> element contained inside the HTML \<head>.
-
-```<!DOCTYPE html>
+``` text
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -96,9 +97,10 @@ The abbreviation element, \<abbr> , is used to wrap around an abbreviation or ac
 </html>
 ```
 
-3. Inline styles: Inline styles are CSS declarations that affect a single HTML element, contained within a style attribute. For instance:
+3.Inline styles: Inline styles are CSS declarations that affect a single HTML element, contained within a style attribute. For instance:
 
-```<!DOCTYPE html>
+``` text
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -120,22 +122,26 @@ The abbreviation element, \<abbr> , is used to wrap around an abbreviation or ac
 
 **Review the block of code below and answer the following questions:**
 
-```  h2 {
+``` text
+  h2 {
      color: black;
      padding: 5px;
    }
 ```
 
-1. **What is representing the selector?**
-> h2
+1.**What is representing the selector?**
 
-2. **Which components are the CSS declarations?**
-> color: black;
-> padding: 5px;
+- h2
 
-3. **Which components are considered properties?**
-> color:
-> padding:
+2.**Which components are the CSS declarations?**
+
+- color: black;
+- padding: 5px;
+
+3.**Which components are considered properties?**
+
+- color:
+- padding:
 
 ## Learn JavaScript
 
@@ -145,13 +151,14 @@ The abbreviation element, \<abbr> , is used to wrap around an abbreviation or ac
 String
 
 **List 4 types of JavaScript operators.**
-\+ Addition
-\- Subtraction
-\* Multiplication
-/ Division
-= Assignment
-\=== Strict Equality
-!, !== Not, Does not Equal
+
+- \+ Addition
+- \- Subtraction
+- \* Multiplication
+- / Division
+- = Assignment
+- \=== Strict Equality
+- !, !== Not, Does not Equal
 
 **Describe a real world Problem you could solve with a Function.**
 If one needed to repeatedly write the same code, they could package it in a function and then call the function anytime it is needed to do the job it was written for. 
@@ -164,15 +171,15 @@ An if statement checks a condition and if it evaluates to true, then that code b
 
 List 3 different types of comparison operators.
 **Different types of comparison operators:**
-\== Equal
-!= Not Equal
-\=== Strict Equal
-!== Strict Not Equal
-\> Greater Than
-\>= Greater Than or Equal
-< Less Than
-<= Less Than or Equal
 
+- \== Equal
+- != Not Equal
+- \=== Strict Equal
+- !== Strict Not Equal
+- \> Greater Than
+- \>= Greater Than or Equal
+- < Less Than
+- <= Less Than or Equal
 
 **Difference between the logical operator && and ||?**
 
