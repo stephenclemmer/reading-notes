@@ -181,7 +181,7 @@ List 3 different types of comparison operators.
 - < Less Than
 - <= Less Than or Equal
 
-**Difference between the logical operator && and ||?**
+**Difference between the logical operator && and \||?**
 
 #### &&
 Returns the expression to the left of && if it can be converted to false, otherwise it returns the expression to the right of &&
