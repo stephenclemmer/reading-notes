@@ -7,8 +7,8 @@
 **Why is it important to use semantic elements in our HTML?**
 HTML seeks to give a page structure and meaning with paragraphs, headings, lists, emphasis, and quotations. Semantic elements are used to more clearly demonstrate the intent of the programmer to others reading the code. For instance:
 
-- Paragraphs: ```<p>```
-- Headings: ```<h1>``` - ```\<h6>```
+- Paragraphs: <p>
+- Headings: <h1> - \<h6>
 - Lists: \<ul>, \<ol>, \<li>
 - Emphasis: \<em>
 - Quotations: \<q>
@@ -30,9 +30,11 @@ There are six levels of headings in HTML H1 - H6
 **Adding Hyperlinks to a Page**
 A basic link is created by wrapping the text or other content inside an \<a> element and using the href attribute, also known as a Hypertext Reference, or target, that contains the web address.
 
-> \<p>I'm creating a link to
-> \<a href="https://www.mozilla.org/en-US/">the Mozilla homepage</a>.
-> \</p>
+``` text
+<p>I'm creating a link to
+<a href="https://www.mozilla.org/en-US/">the Mozilla homepage</a>.
+</p>
+```
 
 ### HTML Advanced Text Formatting
 
@@ -45,7 +47,7 @@ Superscript and subscript are used when marking up items like dates, chemical fo
 **When using the \<abbr> element, what attribute must be added to provide the full expansion of the term?**
 The abbreviation element, \<abbr> , is used to wrap around an abbreviation or acronym, and provide a full expansion of the term (included inside a title attribute. For example:
 
-\<p>We use \<abbr title="Hypertext Markup Language">HTML</abbr> to structure our web documents.\</p>
+\<p>We use **\<abbr title="Hypertext Markup Language">HTML</abbr>** to structure our web documents.\</p>
 
 ## Learn CSS
 
@@ -129,16 +131,16 @@ The abbreviation element, \<abbr> , is used to wrap around an abbreviation or ac
    }
 ```
 
-1.**What is representing the selector?**
+1. **What is representing the selector?**
 
 - h2
 
-2.**Which components are the CSS declarations?**
+2. **Which components are the CSS declarations?**
 
 - color: black;
 - padding: 5px;
 
-3.**Which components are considered properties?**
+3. **Which components are considered properties?**
 
 - color:
 - padding:
@@ -157,8 +159,6 @@ String
 - \* Multiplication
 - / Division
 - = Assignment
-- \=== Strict Equality
-- !, !== Not, Does not Equal
 
 **Describe a real world Problem you could solve with a Function.**
 If one needed to repeatedly write the same code, they could package it in a function and then call the function anytime it is needed to do the job it was written for. 
