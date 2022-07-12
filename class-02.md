@@ -150,6 +150,7 @@ The abbreviation element, \<abbr> , is used to wrap around an abbreviation or ac
 ### JavaScript Basics: Comments - Events
 
 **What data type is a sequence of text enclosed in single quote marks?**
+
 String
 
 **List 4 types of JavaScript operators.**
@@ -170,6 +171,7 @@ An if statement checks a condition and if it evaluates to true, then that code b
 ***An else-if statement tells the computer to run the argument if the preceding command did not evaluate to true.***
 
 List 3 different types of comparison operators.
+
 **Different types of comparison operators:**
 
 - \== Equal
