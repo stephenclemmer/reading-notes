@@ -54,20 +54,56 @@ Size it using properties like inline-size and block-size or width and height.
 
 4. Margin: The outermost layer, it wraps the content, padding, and border as whitespace between this box and other elements
 
-
 ## Learn JavaScript
 
 ### Arrays, Operators and Expressions, Conditionals, Loops
 
-What data types can be stored inside of an Array?
+**Data types that can be stored inside of an Array?**
 
-Is the people array a valid JavaScript array? If so, how can one access the values stored? If not, why?
+- Strings
+- Numbers
+- Objects
+- Other arrays
+
+**Is the people array a valid JavaScript array? If so, how can one access the values stored? If not, why?**
 
 ``` text
  const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
 ```
 
-**List five shorthand operators for assignment in javascript and describe what they do.**
+The people array is a valid JavaScript array. It is a multidimensional array because it is an array containing three arrays. Arrays and objects within arrays are numbered starting with zero. The values can be accessed by chaining numbers together to access items in the array's three different arrays. for instance:
+people [0] yields: ['pete', 32, 'librarian', null]
+people [1[ yields: ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing']
+people [2] yields: ['bill', null, 'artist', null]]
+people [0][3] yields: null (the first null in the series)
+people [2][2] yields: artist
+people [2][1] yields: null (the second-to-last null in the series)
+people [2][3] yields: null (the last null in the series)
+
+**Shorthand operators for assignment in javascript and what they do.**
+
+An assignment operator assigns a value to its left operand based on the value of its right operand. The simple assignment operator is equal (=), which assigns the value of its right operand to its left operand. That is, x = f() is an assignment expression that assigns the value of f() to x.
+
+Compound assignment operators that are shorthand for operations
+
+``` text
+x = f()    Assignment:......................x = f()
+x += f()   Addition assignment:.............x = x + f()
+x -= f()   Subtraction assignment:..........x = x - f()
+x *= f()   Multiplication assignment:.......x = x * f()
+x /= f()   Division assignment:.............x = x / f()
+x %= f()   Remainder assignment:............x = x % f()
+x **= f()  Exponentiation assignment:.......x = x ** f()
+x <<= f()  Left shift assignment:...........x = x << f()
+x >>= f()  Right shift assignment:..........x = x >> f()
+x >>>= f() Unsigned right shift assignment: x = x >>> f()
+x &= f()   Bitwise AND assignment:..........x = x & f()
+x ^= f()   Bitwise XOR assignment:..........x = x ^ f()
+x |= f()   Bitwise OR assignment:...........x = x | f()
+x &&= f()  Logical AND assignment:..........x && (x = f())
+x ||= f()  Logical OR assignment:...........x || (x = f())
+x ??= f()  Logical nullish assignment:......x ?? (x = f())
+```
 
 **Read the code below and evaluate the last expression and explain what the result would be and why.**
 
@@ -80,4 +116,20 @@ Is the people array a valid JavaScript array? If so, how can one access the valu
  (a + c) + b;
 ```
 
+The result would be: '10dog'
+
+false = 0 and true = 1
+
+10 + 0 = 10
+10 + 'dog' = '10dog'
+
+This is best understood if one were to change the false value to true
+
+false = 0 and true = 1
+
+10 + 1 = 11
+11 + 'dog' = '11dog'
+
 **Describe a real world example of when a conditional statement should be used in a JavaScript program.**
+
+Conditional statements create rules that result in consequences. In a JavaScript program, they may manifest as, "If a condition is met, then give an output." For instance if a person was asked to pick a number the computer may give one answer if the nbumber chosen were even, and another answer if the number chosen was odd.
