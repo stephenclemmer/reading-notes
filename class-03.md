@@ -72,13 +72,14 @@ Size it using properties like inline-size and block-size or width and height.
 ```
 
 The people array is a valid JavaScript array. It is a multidimensional array because it is an array containing three arrays. Arrays and objects within arrays are numbered starting with zero. The values can be accessed by chaining numbers together to access items in the array's three different arrays. for instance:
-people [0] yields: ['pete', 32, 'librarian', null]
-people [1[ yields: ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing']
-people [2] yields: ['bill', null, 'artist', null]]
-people [0][3] yields: null (the first null in the series)
-people [2][2] yields: artist
-people [2][1] yields: null (the second-to-last null in the series)
-people [2][3] yields: null (the last null in the series)
+
+- people [0] yields: **['pete', 32, 'librarian', null]**
+- people [1[ yields: **['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing']**
+- people [2] yields: **['bill', null, 'artist', null]**
+- people [0][3] yields: **null** (the first null in the series)
+- people [2][2] yields: **artist**
+- people [2][1] yields: **null** (the second-to-last null in the series)
+- people [2][3] yields: **null** (the last null in the series)
 
 **Shorthand operators for assignment in javascript and what they do.**
 
@@ -116,7 +117,7 @@ x ??= f()  Logical nullish assignment:......x ?? (x = f())
  (a + c) + b;
 ```
 
-The result would be: '10dog'
+**The result would be: '10dog'**
 
 false = 0 and true = 1
 
