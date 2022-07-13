@@ -41,7 +41,7 @@ Attributes can be used to change the style of numbers in an ordered list.
 ### The Box Model
 
 **Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?**
-Margin and Padding were in love, They lived on different sides of the Border, but were unable to cross it. Padding searched within herself to find Content and realized that since neither she nor her love could cross the Border, the only way they could come together would be to eliminate the border completely.
+Margin and Padding were in love, They lived on different sides of the Border, but were unable to cross it. Padding searched within herself to find Content and realized that since neither she nor her love could cross the Border, the only way they could come together would be to eliminate the Border completely.
 
 **List and describe the four parts of an HTML elements box as referred to by the box model.**
 
