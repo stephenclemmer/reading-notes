@@ -6,7 +6,7 @@
 
 [Read 2: Basics of HTML, CSS & JavaScript](./class-02.md)
 
-[Read 3:](./class-03.md)
+[Read 3: HTML Lists, Control Flow with JS, and the CSS Box Model](./class-03.md)
 
 [Read 4:](./class-04.md)
 
