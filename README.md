@@ -10,7 +10,7 @@
 
 [Read 4: HTML Links, JS Functions, and Intro to CSS Layout](./class-04.md)
 
-[Read 5:](./class-05.md)
+[Read 5: Images, Color, Text](./class-05.md)
 
 [Read 6:](./class-06.md)
 
