@@ -12,7 +12,7 @@
 
 [Read 5: Images, Color, Text](./class-05.md)
 
-[Read 6:](./class-06.md)
+[Read 6: Problem Domain, Objects, and the DOM](./class-06.md)
 
 [Read 7:](./class-07.md)
 
