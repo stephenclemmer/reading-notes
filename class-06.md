@@ -1,5 +1,7 @@
 # Problem Domain, Objects, and the DOM
 
+These concepts are fundamental for understanding the mechanisms behind javascript and progressing from a beginner understanding to a more advanced understanding or what is happening under the hood of JavaScript.
+
 ## JavaScript Object Basics
 
 An object is a collection of *related* data and/or functionality. These usually consist of several variables and functions (which are called properties and methods when they are inside objects)
