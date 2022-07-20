@@ -16,7 +16,7 @@
 
 [Read 7: Object-Oriented Programming, HTML Tables](./class-07.md)
 
-[Read 8:](./class-08.md)
+[Read 8: CSS Layout](./class-08.md)
 
 [Read 9:](./class-09.md)
 
