@@ -20,7 +20,7 @@
 
 [Read 9:Forms and JS Events](./class-09.md)
 
-[Read 10:](./class-10.md)
+[Read 10: Debugging](./class-10.md)
 
 [Read 11:](./class-11.md)
 
