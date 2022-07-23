@@ -22,7 +22,7 @@
 
 [Read 10: Debugging](./class-10.md)
 
-[Read 11:](./class-11.md)
+[Read 11: Audio, Video, Images](./class-11.md)
 
 [Read 12:](./class-12.md)
 
