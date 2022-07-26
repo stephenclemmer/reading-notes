@@ -26,7 +26,7 @@
 
 [Read 12: JS Canvas and Chart.js](./class-12.md)
 
-[Read 13:](./class-13.md)
+[Read 13: Local Storage and How To Use It On Websites](./class-13.md)
 
 [Read 14:](./class-14.md)
 
