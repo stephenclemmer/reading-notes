@@ -24,7 +24,7 @@
 
 [Read 11: Audio, Video, Images](./class-11.md)
 
-[Read 12:](./class-12.md)
+[Read 12: JS Canvas and Chart.js](./class-12.md)
 
 [Read 13:](./class-13.md)
 
