@@ -28,7 +28,7 @@
 
 [Read 13: Local Storage and How To Use It On Websites](./class-13.md)
 
-[Read 14:](./class-14.md)
+[Read 14: CSS Transforms, Transitions & Animations](./class-14.md)
 
 [Read 15:](./class-15.md)
 
