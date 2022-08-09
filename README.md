@@ -30,7 +30,7 @@
 
 [Read 14: CSS Transforms, Transitions & Animations](./class-14.md)
 
-[Read 15:](./class-15.md)
+[Read 15: What Google Learned From Its Quest to Build the Perfect Team](./class-15.md)
 
 ## Code 102 Reading Notes
 
