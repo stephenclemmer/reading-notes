@@ -1,6 +1,38 @@
 # Code Fellows Reading Notes
 
-## Code 201 Reading Notes
+## Code 301 Intermediate Software Development
+
+[Read 1: ](./301-class-01.md)
+
+[Read 2: ](./301-class-02.md)
+
+[Read 3: ](./301-class-03.md)
+
+[Read 4: ](./301-class-04.md)
+
+[Read 5: ](./301-class-05.md)
+
+[Read 6: ](./301-class-06.md)
+
+[Read 7: ](./301-class-07.md)
+
+[Read 8: ](./301-class-08.md)
+
+[Read 9: ](./301-class-09.md)
+
+[Read 10: ](./301-class-10.md)
+
+[Read 11: ](./301-class-11.md)
+
+[Read 12: ](./301-class-12.md)
+
+[Read 13: ](./301-class-13.md)
+
+[Read 14: ](./301-class-14.md)
+
+[Read 15: ](./301-class-15.md)
+
+## Code 201 Foundations of Software Development
 
 [Read 1: Introductory HTML and JavaScript](./class-01.md)
 
@@ -32,7 +64,7 @@
 
 [Read 15: What Google Learned From Its Quest to Build the Perfect Team](./class-15.md)
 
-## Code 102 Reading Notes
+## Code 102 Intro to Software Development
 
 [Read 1: Learning Markdown](./Read1-LearningMarkdown.md)
 
