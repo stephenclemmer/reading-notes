@@ -2,7 +2,7 @@
 
 ## Code 301 Intermediate Software Development
 
-[Read 1: ](./301-class-01.md)
+[Read 1: Component-Based Architecture & Props within React](./301-class-01.md)
 
 [Read 2: ](./301-class-02.md)
 
