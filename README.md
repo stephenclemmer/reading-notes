@@ -6,7 +6,7 @@
 
 [Read 2: React Lifecycle & React State vs. Props](./301-class-02.md)
 
-[Read 3: ](./301-class-03.md)
+[Read 3: React Docs - lists and keys & The Spread Operator](./301-class-03.md)
 
 [Read 4: ](./301-class-04.md)
 
