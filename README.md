@@ -8,7 +8,7 @@
 
 [Read 3: React Docs - lists and keys & The Spread Operator](./301-class-03.md)
 
-[Read 4: ](./301-class-04.md)
+[Read 4: React Docs - Forms & The Conditional (Ternary) Operator Explained](./301-class-04.md)
 
 [Read 5: ](./301-class-05.md)
 
