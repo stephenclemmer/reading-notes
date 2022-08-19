@@ -10,7 +10,7 @@
 
 [Read 4: React Docs - Forms & The Conditional (Ternary) Operator Explained](./301-class-04.md)
 
-[Read 5: ](./301-class-05.md)
+[Read 5: React Docs - Thinking in React & Higher-Order Functions](./301-class-05.md)
 
 [Read 6: ](./301-class-06.md)
 
