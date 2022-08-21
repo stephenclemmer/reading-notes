@@ -12,7 +12,7 @@
 
 [Read 5: React Docs - Thinking in React & Higher-Order Functions](./301-class-05.md)
 
-[Read 6: ](./301-class-06.md)
+[Read 6: An Introduction to Node.js on sitepoint.com & 6 Reasons for Pair Programming](./301-class-06.md)
 
 [Read 7: ](./301-class-07.md)
 
