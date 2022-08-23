@@ -14,7 +14,7 @@
 
 [Read 6: An Introduction to Node.js on sitepoint.com & 6 Reasons for Pair Programming](./301-class-06.md)
 
-[Read 7: ](./301-class-07.md)
+[Read 7: What Google Learned From Its Quest to Build the Perfect Team &  How I explained REST to my brother](./301-class-07.md)
 
 [Read 8: ](./301-class-08.md)
 
