@@ -16,7 +16,7 @@
 
 [Read 7: What Google Learned From Its Quest to Build the Perfect Team &  How I explained REST to my brother](./301-class-07.md)
 
-[Read 8: ](./301-class-08.md)
+[Read 8: API Design Best Practices](./301-class-08.md)
 
 [Read 9: ](./301-class-09.md)
 
