@@ -18,7 +18,7 @@
 
 [Read 8: API Design Best Practices](./301-class-08.md)
 
-[Read 9: ](./301-class-09.md)
+[Read 9: Functional Programming Concepts & Node JS Tutorial for Beginners #6 - Modules and require()](./301-class-09.md)
 
 [Read 10: ](./301-class-10.md)
 
