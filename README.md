@@ -20,7 +20,7 @@
 
 [Read 9: Functional Programming Concepts & Node JS Tutorial for Beginners #6 - Modules and require()](./301-class-09.md)
 
-[Read 10: ](./301-class-10.md)
+[Read 10: Understanding the JavaScript Call Stack & JavaScript error messages](./301-class-10.md)
 
 [Read 11: ](./301-class-11.md)
 
