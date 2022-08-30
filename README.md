@@ -24,7 +24,7 @@
 
 [Read 11: nosql vs sql](./301-class-11.md)
 
-[Read 12: ](./301-class-12.md)
+[Read 12: Status Codes Based On REST Methods & Build A REST API With Node.js, Express, & MongoDB](./301-class-12.md)
 
 [Read 13: ](./301-class-13.md)
 
