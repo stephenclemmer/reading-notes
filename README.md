@@ -26,7 +26,7 @@
 
 [Read 12: Status Codes Based On REST Methods & Build A REST API With Node.js, Express, & MongoDB](./301-class-12.md)
 
-[Read 13: ](./301-class-13.md)
+[Read 13: CRUD Basics & Spped Coding: Building a CRUD API](./301-class-13.md)
 
 [Read 14: ](./301-class-14.md)
 
