@@ -28,7 +28,7 @@
 
 [Read 13: CRUD Basics & Spped Coding: Building a CRUD API](./301-class-13.md)
 
-[Read 14: ](./301-class-14.md)
+[Read 14: That Time When Women Stopped Coding, Employee breakdown of key technology companies & Why diversity matters to your tech company](./301-class-14.md)
 
 [Read 15: ](./301-class-15.md)
 
