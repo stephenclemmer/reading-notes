@@ -30,7 +30,7 @@
 
 [Read 14: That Time When Women Stopped Coding, Employee breakdown of key technology companies & Why diversity matters to your tech company](./301-class-14.md)
 
-[Read 15: ](./301-class-15.md)
+[Read 15: What is OAuth & Authorization and Authentication Flows](./301-class-15.md)
 
 ## Code 201 Foundations of Software Development
 
