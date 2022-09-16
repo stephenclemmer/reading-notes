@@ -3,7 +3,7 @@
 ## Code 401 Advanced Software Development in Fullstack JavaScript
 
 [Prework Reading: The Growth Mindset](./401-prework-reading-01.md)
-
+[Prework Reading: Data Structures and Algorithms](./401-prework-reading-02.md)
 
 
 [Read 1:](./401-class-01.md)
