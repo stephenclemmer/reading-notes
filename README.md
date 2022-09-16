@@ -6,6 +6,8 @@
 
 [Prework Reading: Data Structures and Algorithms](./401-prework-reading-02.md)
 
+[Prework Reading: Engineering Readings](./401-prework-reading-03.md)
+
 
 [Read 1:](./401-class-01.md)
 [Read 2:](./401-class-02.md)
