@@ -10,6 +10,7 @@
 
 [Prework Reading: Introduction to SQL](./401-prework-reading-04.md)
 
+[Prework Reading: Practice in the Terminal](./401-prework-reading-05.md)
 
 [Read 1:](./401-class-01.md)
 [Read 2:](./401-class-02.md)
