@@ -8,7 +8,7 @@ FROM mytable
 
 INNER JOIN another_table
 
-    ON mytable.id = another_table.id
+ON mytable.id = another_table.id
 
 WHERE condition(s)
 
