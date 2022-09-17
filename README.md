@@ -8,6 +8,8 @@
 
 [Prework Reading: Engineering Readings](./401-prework-reading-03.md)
 
+[Prework Reading: Introduction to SQL](./401-prework-reading-04.md)
+
 
 [Read 1:](./401-class-01.md)
 [Read 2:](./401-class-02.md)
