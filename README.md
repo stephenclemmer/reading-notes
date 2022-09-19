@@ -14,7 +14,8 @@
 
 [Read 1: Node Ecosystem](./401-class-01.md)
 
-[Read 2:](./401-class-02.md)
+[Read 2:NodeJS and Express, NPM, TDD, CI/CD](./401-class-02.md)
+
 [Read 3:](./401-class-03.md)
 [Read 4:](./401-class-04.md)
 [Read 5:](./401-class-05.md)
