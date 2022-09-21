@@ -18,7 +18,8 @@
 
 [Read 3: ES6 Classes & Express Routing](./401-class-03.md)
 
-[Read 4:](./401-class-04.md)
+[Read 4: Data Modeling: NOSQL vs SQL, SQL Storage Techniques](./401-class-04.md)
+
 [Read 5:](./401-class-05.md)
 [Read 6:](./401-class-06.md)
 [Read 7:](./401-class-07.md)
