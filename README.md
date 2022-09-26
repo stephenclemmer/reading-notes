@@ -22,7 +22,8 @@
 
 [Read 5: Linked Lists](./401-class-05.md)
 
-[Read 6:](./401-class-06.md)
+[Read 6:Securing Passwords, Basic Auth, OWASP Auth Cheatsheet](./401-class-06.md)
+
 [Read 7:](./401-class-07.md)
 [Read 8:](./401-class-08.md)
 [Read 9:](./401-class-09.md)
