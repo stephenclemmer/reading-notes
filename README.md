@@ -24,7 +24,8 @@
 
 [Read 6:Securing Passwords, Basic Auth, OWASP Auth Cheatsheet](./401-class-06.md)
 
-[Read 7:](./401-class-07.md)
+[Read 7: Bearer Authorization](./401-class-07.md)
+
 [Read 8:](./401-class-08.md)
 [Read 9:](./401-class-09.md)
 [Read 10:](./401-class-10.md)
