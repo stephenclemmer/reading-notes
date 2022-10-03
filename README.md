@@ -34,7 +34,8 @@
 
 [Read 11: Event-driven Application](./401-class-11.md)
 
-[Read 12:](./401-class-12.md)
+[Read 12: Socket.io](./401-class-12.md)
+
 [Read 13:](./401-class-13.md)
 [Read 14:](./401-class-14.md)
 [Read 15:](./401-class-15.md)
