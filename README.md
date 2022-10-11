@@ -44,7 +44,7 @@
 
 [Read 16: AWS Cloud Servers](./401-class-16.md)
 
-[Read 17:](./401-class-17.md)
+[Read 17: AWS: S3 and Lambda](./401-class-17.md)
 [Read 18:](./401-class-18.md)
 [Read 19:](./401-class-19.md)
 [Read 20:](./401-class-20.md)
