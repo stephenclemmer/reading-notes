@@ -48,7 +48,8 @@
 
 [Read 18: AWS: API, Dynamo and Lambda](./401-class-18.md)
 
-[Read 19:](./401-class-19.md)
+[Read 19:AWS: Events](./401-class-19.md)
+
 [Read 20:](./401-class-20.md)
 [Read 21:](./401-class-21.md)
 [Read 22:](./401-class-22.md)
