@@ -50,13 +50,7 @@
 
 [Read 19:AWS: Events](./401-class-19.md)
 
-[Read 20:](./401-class-20.md)
-[Read 21:](./401-class-21.md)
-[Read 22:](./401-class-22.md)
-[Read 23:](./401-class-23.md)
-[Read 24:](./401-class-24.md)
-[Read 25:](./401-class-25.md)
-[Read 26:](./401-class-26.md)
+[Read 26: Component Based UI](./401-class-26.md)
 [Read 27:](./401-class-27.md)
 [Read 28:](./401-class-28.md)
 [Read 29:](./401-class-29.md)
