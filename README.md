@@ -51,7 +51,7 @@
 [Read 19:AWS: Events](./401-class-19.md)
 
 [Read 26: Component Based UI](./401-class-26.md)
-[Read 27:](./401-class-27.md)
+[Read 27: UseState() Hook](./401-class-27.md)
 [Read 28:](./401-class-28.md)
 [Read 29:](./401-class-29.md)
 [Read 30:](./401-class-30.md)
