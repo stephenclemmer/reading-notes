@@ -56,7 +56,8 @@
 
 [Read 28: Component Lifecycle / useEffect Hook](./401-class-28.md)
 
-[Read 29:](./401-class-29.md)
+[Read 29: Advanced State with Reducers](./401-class-29.md)
+
 [Read 30:](./401-class-30.md)
 [Read 31:](./401-class-31.md)
 [Read 32:](./401-class-32.md)
