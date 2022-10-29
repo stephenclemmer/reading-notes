@@ -58,8 +58,8 @@
 
 [Read 29: Advanced State with Reducers](./401-class-29.md)
 
-[Read 30:](./401-class-30.md)
-[Read 31:](./401-class-31.md)
+[Read 31: Context API](./401-class-31.md)
+
 [Read 32:](./401-class-32.md)
 [Read 33:](./401-class-33.md)
 [Read 34:](./401-class-34.md)
