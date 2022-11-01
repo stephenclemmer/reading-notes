@@ -60,7 +60,8 @@
 
 [Read 31: Context API](./401-class-31.md)
 
-[Read 32:](./401-class-32.md)
+[Read 32:Context API - Behaviors](./401-class-32.md)
+
 [Read 33:](./401-class-33.md)
 [Read 34:](./401-class-34.md)
 [Read 35:](./401-class-35.md)
