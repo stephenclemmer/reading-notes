@@ -64,7 +64,8 @@
 
 [Read 33: \<Login /> and \<Auth />](./401-class-33.md)
 
-[Read 34:](./401-class-34.md)
+[Read 34: API Integration](./401-class-34.md)
+
 [Read 35:](./401-class-35.md)
 [Read 36:](./401-class-36.md)
 [Read 37:](./401-class-37.md)
