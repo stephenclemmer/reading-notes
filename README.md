@@ -66,8 +66,8 @@
 
 [Read 34: API Integration](./401-class-34.md)
 
-[Read 35:](./401-class-35.md)
-[Read 36:](./401-class-36.md)
+[Read 36: Application State with Redux](./401-class-36.md)
+
 [Read 37:](./401-class-37.md)
 [Read 38:](./401-class-38.md)
 [Read 39:](./401-class-39.md)
