@@ -74,8 +74,8 @@
 
 [Read 39: Redux - Additional Topics](./401-class-39.md)
 
-[Read 40:](./401-class-40.md)
-[Read 41:](./401-class-41.md)
+[Read 41: React Native](./401-class-41.md)
+
 [Read 42:](./401-class-42.md)
 [Read 43:](./401-class-43.md)
 [Read 44:](./401-class-44.md)
