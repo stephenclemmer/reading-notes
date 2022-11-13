@@ -76,7 +76,8 @@
 
 [Read 41: React Native](./401-class-41.md)
 
-[Read 42:](./401-class-42.md)
+[Read 42: Ethics](./401-class-42.md)
+
 [Read 43:](./401-class-43.md)
 [Read 44:](./401-class-44.md)
 [Read 45:](./401-class-45.md)
